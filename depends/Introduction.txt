@@ -1,0 +1,3 @@
+This is the depending folder which included the Bootstrap and HTML5 designing.
+If you wanna use it plz use <meta> to include this into the files.
+Thanks for your adding!
